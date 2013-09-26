@@ -1,7 +1,7 @@
-Dash.alfredworkflow (1.5)
+Dash.alfredworkflow ([Download v1.7](https://raw.github.com/willfarrell/alfred-dash-workflow/master/Dash.alfredworkflow))
 =========================
 
-Documentation Lookup [Download](https://raw.github.com/willfarrell/alfred-dash-workflow/master/Dash.alfredworkflow)
+Dash Documentation Lookup
 
 [Dash](http://kapeli.com/) comes with default Alfred 2 Workflow. This is an extension to that by shortening the keyword filters for each language. Does not require online connection.
 
