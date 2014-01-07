@@ -1,4 +1,4 @@
-Dash.alfredworkflow ([Download v1.15](https://raw.github.com/willfarrell/alfred-dash-workflow/master/Dash.alfredworkflow))
+Dash.alfredworkflow ([Download v1.16](https://raw.github.com/willfarrell/alfred-dash-workflow/master/Dash.alfredworkflow))
 =========================
 
 Dash Documentation Lookup
