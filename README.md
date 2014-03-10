@@ -12,6 +12,8 @@ Dash Documentation Lookup
 
 ![alt text][dash]
 
+## As of Dash v2, this workflow is no longer needed.
+
 ## Development
 For new keywords being added in please read https://github.com/willfarrell/alfred-dash-workflow/issues/20 in regards to new query string.
 
