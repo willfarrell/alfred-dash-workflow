@@ -6,6 +6,7 @@ Dash Documentation Lookup
 [Dash](http://kapeli.com/) comes with default Alfred 2 Workflow. This is an extension to that by shortening the keyword filters for each language. Does not require online connection.
 
 ## As of Dash v2, this workflow is no longer needed.
+**To enable the new workflow go to `Dash -> Preferences -> Integration -> Alferd`**
 
 **Requires:** [Dash](http://kapeli.com/dash) >= 1.9.2.
 
